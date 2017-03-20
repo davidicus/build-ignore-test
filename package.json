@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "buildIgnore": "./node_modules/.bin/build-ignore",
-    "postcheckout": "npm run buildIgnore",
+    "postcheckout": "./node_modules/.bin/build-ignore",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
