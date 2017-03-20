@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "build-ignore": "^1.1.5",
+    "build-ignore": "^1.1.6",
     "husky": "^0.13.2"
   }
 }
