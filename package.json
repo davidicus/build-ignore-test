@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postcheckout": "./node_modules/.bin/build-ignore"
+    "buildIgnore": "./node_modules/.bin/build-ignore",
+    "postcheckout": "npm run buildIgnore"
   },
   "keywords": [],
   "author": "",
