@@ -1,0 +1,17 @@
+{
+  "name": "buildIgnoreTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postcheckout": "./node_modules/.bin/build-ignore"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "build-ignore": "^1.1.5",
+    "husky": "^0.13.2"
+  }
+}
