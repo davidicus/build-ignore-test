@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postcheckout": "./node_modules/.bin/build-ignore",
+    "postcheckout": "build-ignore",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "build-ignore": "^1.1.6",
     "husky": "^0.13.2"
+  },
+  "dependencies": {
+    "build-ignore": "^1.2.0"
   }
 }

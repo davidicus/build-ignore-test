@@ -10,9 +10,9 @@ ansi-styles@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-2.2.1.tgz#b432dd3358b634cf75e1e4664368240533c1ddbe"
 
-build-ignore@^1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/build-ignore/-/build-ignore-1.1.6.tgz#2e47c919a33adbb5a65d4eebdbe747ef3e62dc1e"
+build-ignore@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/build-ignore/-/build-ignore-1.2.0.tgz#ca45c2bc8d84fdbdf39439dfec844dafe21481f3"
 
 chalk@^1.1.3:
   version "1.1.3"
